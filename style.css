@@ -171,6 +171,9 @@ a {
     width: 80%;
   }
   .part-right {
-    padding: 20px 0;
+    padding: 20px 10px;
   }
+  
+  .right-item-text {
+  margin-left: 10px;
 }
