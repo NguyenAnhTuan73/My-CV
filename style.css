@@ -173,7 +173,8 @@ a {
   .part-right {
     padding: 20px 10px;
   }
-  
+
   .right-item-text {
-  margin-left: 10px;
+    margin-left: 10px;
+  }
 }
