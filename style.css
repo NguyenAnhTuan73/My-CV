@@ -25,7 +25,7 @@ a {
 .part-left {
   width: 30%;
   background-color: #1976d2;
-  color: #ccc;
+  color: #fff;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -74,7 +74,7 @@ a {
   padding: 0 50px 0;
   display: flex;
   flex-direction: column;
-  background-color: #ccc;
+  background-color: rgb(251, 251, 251);
   height: auto;
 }
 .part-right-list {
